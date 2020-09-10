@@ -1,3 +1,3 @@
 # Assignment-Null-Getting-Started
 
-hello, world.
+Hello, world
